@@ -1,4 +1,4 @@
-# studikasus-7-A-024
+# studikasus-6-A-024
 
 # SISTEM MANAJEMEN INVENTARIS BARANG
 
